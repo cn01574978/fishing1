@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_1.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\help_1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\menu_options_menus.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\menu\\options_menus.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_back.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\help_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_under.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\about_under.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_3.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\help_3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sound.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\sound.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_set.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rank.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\rank.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_normal.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_4.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\help_4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_newrecord.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\newrecord.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_set.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\set.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_billboard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\billboard.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aboutus.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\aboutus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_billboard.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\billboard.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_start.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_bg.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\menu_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_retry.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\retry.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_2.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\help_2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\hard.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_easy.png.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\drawable\\easy.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_submenu.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\submenu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\a\\d\\fishing1\\app\\src\\main\\res\\layout\\menu.xml"
+    }
+]
